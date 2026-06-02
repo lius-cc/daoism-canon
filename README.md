@@ -78,8 +78,10 @@ gunzip -k data/canon-v0.1.jsonl.gz
 
 ## 引用 / Citation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20507890.svg)](https://doi.org/10.5281/zenodo.20507890)
+
 **APA**
-> Liu, C.-Y. (2026). *道教經典白話翻譯集 / Daoist Canon Vernacular Translation Dataset* (v0.1) [Dataset]. Zenodo. https://doi.org/[pending]
+> Liu, C.-Y. (2026). *道教經典白話翻譯集 / Daoist Canon Vernacular Translation Dataset* (v0.1) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20507890
 
 **BibTeX**
 ```bibtex
@@ -89,7 +91,7 @@ gunzip -k data/canon-v0.1.jsonl.gz
   year       = {2026},
   version    = {v0.1},
   publisher  = {Zenodo},
-  doi        = {[pending]},
+  doi        = {10.5281/zenodo.20507890},
   url        = {https://lius.cc/canon}
 }
 ```

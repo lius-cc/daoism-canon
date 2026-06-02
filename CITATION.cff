@@ -24,7 +24,11 @@ keywords:
   - vernacular translation
   - Chinese religion
   - digital humanities
+doi: "10.5281/zenodo.20507890"
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20507890"
+    description: "Concept DOI (cites all versions)"
   - type: doi
     value: "10.5281/zenodo.20248697"
     description: "Related: Daoism-Qwen3.5-9B (open Daoist LLM) which references this corpus"
