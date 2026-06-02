@@ -1,0 +1,5 @@
+# 只提交 gzip 後的資料；原始未壓縮 JSONL 由 export-canon.mjs 重新產生
+data/*.jsonl
+_export*.mjs
+node_modules/
+.DS_Store

@@ -1,0 +1,33 @@
+{
+  "title": "道教經典白話翻譯集 / Daoist Canon Vernacular Translation Dataset",
+  "description": "<p>1,275 Daoist scriptures (17,081 chapters), each in three parallel columns: original classical Chinese text + modern vernacular translation + scholarly annotation. Browse: https://lius.cc/canon</p><p>Original texts are in the public domain (based on 道藏 / 雲笈七籤 / 王弼本 etc.). The vernacular translations, prefaces, and scholarly annotations are original works by Dingren Daoxue Academy, released under CC0 1.0. v0.1 is a pre-peer-review, preprint-style release.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "version": "v0.1",
+  "language": "zho",
+  "creators": [
+    {
+      "name": "Liu, Chi-Ying",
+      "affiliation": "Dingren Daoxue Academy, Liu-Cuo Pai Dingxin Men (劉厝派鼎新門 鼎稔道學館)"
+    }
+  ],
+  "keywords": [
+    "Daoism", "Taoism", "Taoist canon", "Daozang", "vernacular translation",
+    "Chinese religion", "digital humanities", "religious studies", "CC0 dataset",
+    "道教", "道藏", "白話翻譯", "經典"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20248697",
+      "relation": "isReferencedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://lius.cc/canon",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ],
+  "notes": "v0.1 pre-peer-review (preprint-style). Original text: Public Domain. Vernacular translation / preface / scholarly notes: CC0-1.0 by the publisher."
+}

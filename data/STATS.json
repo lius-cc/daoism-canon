@@ -1,0 +1,15 @@
+{
+  "dataset_version": "v0.1",
+  "source": "https://lius.cc/llm/canon",
+  "generated_from": "lius.cc data.ts",
+  "n_scriptures": 1275,
+  "n_chapters": 17081,
+  "by_category": {
+    "moral (勸善 / 倫理)": 32,
+    "foundational (基礎經典)": 845,
+    "alchemy (內丹 / 修煉)": 131,
+    "ritual (科儀 / 寶懺)": 189,
+    "salvation (救度 / 度亡)": 48,
+    "deity (神祇主經)": 30
+  }
+}

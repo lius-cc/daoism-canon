@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "道教經典白話翻譯集 / Daoist Canon Vernacular Translation Dataset"
+type: dataset
+version: v0.1
+date-released: 2026-06-02
+license: CC0-1.0
+url: "https://lius.cc/canon"
+repository-code: "https://github.com/lius-cc/daoism-canon"
+abstract: >-
+  1,275 Daoist scriptures (17,081 chapters), each in three parallel columns:
+  original classical Chinese text (public domain), modern vernacular translation,
+  and scholarly annotation. The vernacular translations, prefaces, and annotations
+  are original works by Dingren Daoxue Academy, released under CC0 1.0. v0.1 is a
+  pre-peer-review, preprint-style release.
+authors:
+  - family-names: Liu
+    given-names: Chi-Ying
+    affiliation: "Dingren Daoxue Academy, Liu-Cuo Pai Dingxin Men"
+keywords:
+  - Daoism
+  - Taoist canon
+  - Daozang
+  - vernacular translation
+  - Chinese religion
+  - digital humanities
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20248697"
+    description: "Related: Daoism-Qwen3.5-9B (open Daoist LLM) which references this corpus"
